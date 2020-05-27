@@ -1,0 +1,63 @@
+div#dashboard{
+    width: 100%;
+    max-width: 930px;
+    margin: 20px auto;
+    padding: 0 30px;
+}
+
+div#dashboard .user-info{
+    display: flex;
+    height: 30px;
+    align-items: center;
+
+}
+
+div#dashboard .user-info a{
+    margin-left: 190px;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 15px;
+    background-color: #ff0000;
+    color: #fff;
+    text-decoration: none;
+        
+}
+div#dashboard .user-info h1{
+    text-align: left;
+    margin-bottom: 10px;
+    text-justify: auto;
+    font-size: 20px;
+    font-style: initial;
+}
+
+
+div#dashboard .user-info2 img{
+    width: auto;
+    height: 240px;
+    margin-top: 20px;
+    max-width: 100%;
+    
+}
+
+div#dashboard .user-info2 button{
+    background-color: #696969;
+    color: #fff;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 4px;
+    text-decoration: none;
+    padding: 8px;
+    cursor: pointer;
+}
+
+div#dashboard .user-info2 p{
+    text-align: left;
+    margin-bottom: 10px;
+    text-justify: auto;
+    font-size: 15px;
+    text-decoration: ;
+    
+    
+
+}
